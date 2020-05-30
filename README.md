@@ -4,10 +4,16 @@ Collection of useful libraries for Machine Learning, Data Science, Deep Learning
 ## [feast](https://github.com/feast-dev/feast)
 Machine Learning: Feast (Feature Store) is a tool for managing and serving machine learning features. Feast is the bridge between models and data.
 
+## [horovod](https://github.com/horovod/horovod)
+* Uber's Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
+
 ## [madewithml](https://madewithml.com/)
 * Discover ML projects (with code/blog posts) on interesting topics
 * Build projects of your own and share it with the community
 * Showcase your profile on your resume or apply directly to ML managers
+
+## [netron](https://github.com/lutzroeder/netron)
+Deep Learning: Visualizer for neural networks, deep learning and machine learning models
 
 ## [polyaxon](https://github.com/polyaxon/polyaxon)
 Deep Learning: a platform for building, training, and monitoring large scale deep learning applications
