@@ -21,6 +21,9 @@ Deep Learning: a platform for building, training, and monitoring large scale dee
 ## [shap](https://github.com/slundberg/shap)
 Model explainability: A game theoretic approach to explain the output of any machine learning model.
 
+## [talos](https://github.com/autonomio/talos)
+Talos radically changes the ordinary Keras workflow by fully automating <b>hyperparameter tuning</b> and <b>model evaluation</b>. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
+
 ## [tabletrainnet](https://github.com/mawanda-jun/TableTrainNet)
 Data extraction: Table recognition inside douments using neural networks
 
