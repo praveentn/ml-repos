@@ -1,6 +1,9 @@
 # ml-repos
 Collection of useful libraries for Machine Learning, Data Science, Deep Learning, Reinforcement Learning etc.
 
+## [ampligraph](https://github.com/Accenture/AmpliGraph)
+NLP: Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
+
 ## [feast](https://github.com/feast-dev/feast)
 Machine Learning: Feast (Feature Store) is a tool for managing and serving machine learning features. Feast is the bridge between models and data.
 
