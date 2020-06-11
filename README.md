@@ -3,6 +3,7 @@ Collection of useful libraries for Machine Learning, Natural Language Processing
 
 ### sub-topics: 
   * Data Extraction
+  * Data Privacy
   * Data Science
   * Deep Learning
   * Machine Learning
@@ -35,6 +36,9 @@ Deep Learning: Visualizer for neural networks, deep learning and machine learnin
 
 ## [polyaxon](https://github.com/polyaxon/polyaxon)
 Deep Learning: a platform for building, training, and monitoring large scale deep learning applications
+
+## [pysyft](https://github.com/OpenMined/PySyft)
+Data Privacy / Deep Learning: python library for secure and private Deep Learning. PySyft decouples private data from model training, using Federated Learning, Differential Privacy, and Encrypted Computation within the main Deep Learning frameworks like PyTorch and TensorFlow.
 
 ## [shap](https://github.com/slundberg/shap)
 Model Explainability: A game theoretic approach to explain the output of any machine learning model.
