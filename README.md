@@ -1,19 +1,34 @@
 # ml-repos
-Collection of useful libraries for Machine Learning, Data Science, Deep Learning, Reinforcement Learning etc.
+Collection of useful libraries for Machine Learning, Natural Language Processing, Data Science, Deep Learning, Reinforcement Learning etc.
+
+### sub-topics: 
+  * Data Extraction
+  * Data Science
+  * Deep Learning
+  * Machine Learning
+  * Model Explainability
+  * NLProc
+  * Performance Enhancement
+  * Reinforcement Learning
+  
 
 ## [ampligraph](https://github.com/Accenture/AmpliGraph)
-NLP: Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
+NLProc: Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 
 ## [feast](https://github.com/feast-dev/feast)
 Machine Learning: Feast (Feature Store) is a tool for managing and serving machine learning features. Feast is the bridge between models and data.
 
 ## [horovod](https://github.com/horovod/horovod)
-* Uber's Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
+Deep Learning: Uber's Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
+
+## [larq](https://docs.larq.dev/)
+Deep Learning: open-source deep learning library for training neural networks with extremely low precision weights and activations, such as Binarized Neural Networks (BNNs).
 
 ## [madewithml](https://madewithml.com/)
-* Discover ML projects (with code/blog posts) on interesting topics
-* Build projects of your own and share it with the community
-* Showcase your profile on your resume or apply directly to ML managers
+Machine Learning: 
+  * Discover ML projects (with code/blog posts) on interesting topics
+  * Build projects of your own and share it with the community
+  * Showcase your profile on your resume or apply directly to ML managers
 
 ## [netron](https://github.com/lutzroeder/netron)
 Deep Learning: Visualizer for neural networks, deep learning and machine learning models
@@ -22,16 +37,19 @@ Deep Learning: Visualizer for neural networks, deep learning and machine learnin
 Deep Learning: a platform for building, training, and monitoring large scale deep learning applications
 
 ## [shap](https://github.com/slundberg/shap)
-Model explainability: A game theoretic approach to explain the output of any machine learning model.
+Model Explainability: A game theoretic approach to explain the output of any machine learning model.
 
 ## [talos](https://github.com/autonomio/talos)
-Talos radically changes the ordinary Keras workflow by fully automating <b>hyperparameter tuning</b> and <b>model evaluation</b>. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
+Deep Learning: Talos radically changes the ordinary Keras workflow by fully automating <b>hyperparameter tuning</b> and <b>model evaluation</b>. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
 
 ## [tabletrainnet](https://github.com/mawanda-jun/TableTrainNet)
-Data extraction: Table recognition inside douments using neural networks
+Data Extraction: Table recognition inside douments using neural networks
+
+## [tokenizers](https://github.com/huggingface/tokenizers)
+NLProc: Does all the pre-processing: Truncate, Pad, add the special tokens your model needs. Less than 20 seconds to tokenize a GB of text on CPU.
 
 ## [vaex](https://github.com/vaexio/vaex/)
-Performance enancement: Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+Performance Enhancement: Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
 
 ## [visdial-rl](https://github.com/batra-mlp-lab/visdial-rl)
 Reinforcement Learning: Visual QA; PyTorch code for Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning
