@@ -34,6 +34,11 @@ Machine Learning:
 ## [netron](https://github.com/lutzroeder/netron)
 Deep Learning: Visualizer for neural networks, deep learning and machine learning models
 
+## [nvidia rapids](https://github.com/rapidsai)
+Deep Learning, Machine Learning, Performance Enhancement: 
+  * cuDF - GPU DataFrame Library http://rapids.ai
+  * cuML - cuML - RAPIDS Machine Learning Library https://github.com/rapidsai/cuml
+
 ## [polyaxon](https://github.com/polyaxon/polyaxon)
 Deep Learning: a platform for building, training, and monitoring large scale deep learning applications
 
