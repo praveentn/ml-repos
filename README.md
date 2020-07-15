@@ -69,3 +69,10 @@ Data Science / Machine Learning: Wolfram Data Science Platform makes it easy to 
 ## [xfer](https://github.com/amzn/xfer)
 Reinforcement Learning: Transfer Learning library for Deep Neural Networks
 
+---
+# Cool Stuff
+
+* Line ribbon and geoms
+  - https://mjskay.github.io/ggdist/articles/lineribbon.html#curve-boxplots-aka-lineribbons-with-joint-intervals
+
+* ...
