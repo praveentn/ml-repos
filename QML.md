@@ -1,6 +1,6 @@
 # Resources for Quantum Machine Learning
 
-Credits to <b>Kareem El Safety</b>
+Credits to <b><a href="https://github.com/kareem1925">Kareem El-Safty</a></b>
 
 
 ### Important resources for Quantum Machine Learning:
