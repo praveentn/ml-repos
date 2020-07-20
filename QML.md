@@ -1,5 +1,8 @@
 # Resources for Quantum Machine Learning
 
+Credits to <b>Kareem El Safety</b>
+
+
 ### Important resources for Quantum Machine Learning:
 1. if you need some ML refreshment then please follow this link:
 https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html. This free online book has a great introduction to python and data science in general. Besides, it contains great material on Scikit-Learn.
