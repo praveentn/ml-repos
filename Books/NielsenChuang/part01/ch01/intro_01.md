@@ -1,13 +1,13 @@
 FUNDAMENTAL CONCEPTS
 
 
-1. Introduction and overview
+### Introduction and overview
 
 - Quantum computation & quantum information is the study of the information processing tasks that can be accomplished using Quantum mechanical systems
 
 - For example, online security, artificial intelligence, drug discovery, weather forecasting, traffic control, climate change predictions etc.
 
-2. Beginning of Quantum Mechanics
+### Beginning of Quantum Mechanics
 
 - What is QM? 
 	- A mathematical framework for the construction of physical theories!
@@ -24,7 +24,7 @@ FUNDAMENTAL CONCEPTS
 
 - The ability to control single quantum systems is essential to harness the power of QM
 
-3. Classical computers vs. Quantum computers
+### Classical computers vs. Quantum computers
 
 - Church-Turing thesis
 	- Any algorithmic process can be simulated efficiently using a Turing machine
