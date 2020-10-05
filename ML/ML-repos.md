@@ -22,6 +22,9 @@ Machine Learning: Feast (Feature Store) is a tool for managing and serving machi
 ## [horovod](https://github.com/horovod/horovod)
 Deep Learning: Uber's Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet
 
+## [imaginaire](https://github.com/NVlabs/imaginaire)
+Deep Learning, Computer Vision: Comprises of optimized implementations of several supervised and unsupervised image-to-image translation models, and video-to-video translation models
+
 ## [larq](https://docs.larq.dev/)
 Deep Learning: open-source deep learning library for training neural networks with extremely low precision weights and activations, such as Binarized Neural Networks (BNNs).
 
