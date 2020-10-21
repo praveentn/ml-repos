@@ -35,3 +35,12 @@ https://www.youtube.com/playlist?list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG.
 3. https://www.youtube.com/watch?v=6-uKZN5_eAU
 4. https://arxiv.org/pdf/2005.04147.pdf
 5. https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d
+
+
+### QML libraries
+
+1. https://github.com/PennyLaneAI/pennylane
+2. 
+
+
+
