@@ -9,3 +9,9 @@ https://www.dphu.org/uploads/attachements/books/books_3092_0.pdf
 
 - Quantum for Computer Scientists
 https://modphys.hosted.uark.edu/ETC/MISC/Quantum_Computing_for_Computer_Scientists_-_Yanofsky-cup-2008.pdf
+
+
+# QC Libraries
+
+- QMSolve: Visualization of Schrödinger equation
+https://github.com/quantum-visualizations/qmsolve
